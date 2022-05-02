@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18e28220-88f4-48ee-af98-c859fc4f9d64": {
+      "ProjectGuid": "18e28220-88f4-48ee-af98-c859fc4f9d64",
+      "DisplayName": "Emotion Daily",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
